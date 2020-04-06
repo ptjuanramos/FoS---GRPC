@@ -1,0 +1,8 @@
+C:\Users\User01\source\repos\FoS\Models\bin\Debug\netcoreapp3.0\Common.deps.json
+C:\Users\User01\source\repos\FoS\Models\bin\Debug\netcoreapp3.0\Common.dll
+C:\Users\User01\source\repos\FoS\Models\bin\Debug\netcoreapp3.0\Common.pdb
+C:\Users\User01\source\repos\FoS\Models\obj\Debug\netcoreapp3.0\Common.csprojAssemblyReference.cache
+C:\Users\User01\source\repos\FoS\Models\obj\Debug\netcoreapp3.0\Common.AssemblyInfoInputs.cache
+C:\Users\User01\source\repos\FoS\Models\obj\Debug\netcoreapp3.0\Common.AssemblyInfo.cs
+C:\Users\User01\source\repos\FoS\Models\obj\Debug\netcoreapp3.0\Common.dll
+C:\Users\User01\source\repos\FoS\Models\obj\Debug\netcoreapp3.0\Common.pdb

@@ -1,0 +1,26 @@
+syntax = "proto3";
+option csharp_namespace = "ServerFoS";
+
+service Flight {
+	rpc BindFlight (BindFlightRequest) returns (BindFlightResponse);
+}
+
+message Guid {
+	string value = 1;
+}
+
+enum FlightType {
+	Regional = 0;
+	International = 1;
+}
+
+message BindFlightRequest {
+	FlightType type = 1;
+	string flightNumber = 2;
+}
+
+message BindFlightResponse {
+	Guid id = 1;
+	FlightType type = 2;
+	string flightNumber = 3;
+}
